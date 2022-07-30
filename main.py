@@ -1,13 +1,5 @@
 """
 Email Code Receiving Utility
-CMDS:
-    login: Input email info and send test file
-        as <Name>: login as saved info
-    del <Name>: delete info
-    exit: exit
-    recv: receive email
-        last <Number>: Select Code from last <Number>
-    help: list above
 """
 import email
 import getpass
