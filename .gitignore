@@ -1,0 +1,8 @@
+*.html
+data/
+output/
+.ipy*
+.idea/
+.vscode/
+*.bat
+*.ipynb
